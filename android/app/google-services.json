@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479346789912",
+    "project_id": "mis-lab-3-38361",
+    "storage_bucket": "mis-lab-3-38361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479346789912:android:8e5d6d430a175f36ecfd6d",
+        "android_client_info": {
+          "package_name": "com.example.lab_zadaca_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOluwQpdwlZ1MuDKxH_sOvm_AMTCm6mGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
